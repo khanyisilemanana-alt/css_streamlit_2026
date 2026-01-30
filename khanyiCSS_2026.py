@@ -16,7 +16,7 @@ st.write("Field of Research: Biomedical Sciences")
 st.write("Institution: University of Johannesburg")
 
 
-st.image("molecular.jpg")
+st.image("https://media.springernature.com/w580h326/nature-cms/uploads/collections/Molecular_mechanisms_of_HIV_hero_image_1200x675-d4f8b3852a22164d75b0eda307919c42.jpg")
 
 
 st.title("Contact details")
